@@ -1,0 +1,96 @@
+.digital-marketing{
+    padding-top: 80px;
+    background: black;
+    padding: 80px 120px 20px 120px;
+}
+.digital-desc{
+    color: white;
+    text-align: center;
+}
+.digital-desc{
+    font-size: 15px;
+    line-height: 1.6;
+    letter-spacing: 0.03em;
+}
+.digital-cards{
+    display: flex;
+    flex-wrap: wrap;
+}
+.digital-card{
+    width: 30%;
+    text-align: center;
+    border-bottom: 5px solid #cdab13;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background: linear-gradient(white, white 50%, #cdab13 50%, #cdab13);
+    background-size: 100% 200%;
+    transition: background 0.5s;
+}
+.digital-card-desc{
+    color: #575a7b;
+    font-size: 15px;
+    line-height: 1.6;
+    letter-spacing: 0.03em;
+}
+.digital-card-title{
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 10px;
+}
+.digital-card img{
+    background:#cdab13;
+    width: 70px;
+    border-radius: 35px;
+    padding: 9px;
+   
+}
+.digital-btn{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+.digital-btn:hover{
+    text-decoration: none;
+    color: #cdab13;
+}
+.digital-card:hover {
+    background-position: 100% 100%;
+}
+.digital-card:hover .digital-card-desc{
+    color: white;
+}
+.digital-card:hover .digital-card-title{
+    color: white;
+}
+.digital-card:hover .digital-card-img{
+    background: black;
+}
+@media screen and (max-width:1500px) {
+    .digital-marketing{
+        padding:80px 20px 20px 20px;
+    }
+}
+@media screen and (max-width:768px){
+    .digital-marketing{
+        padding: 80px 10px 20px 1.0px;
+    }
+    .digital-card{
+        width: 100%!important;
+        text-align: center;
+        border-bottom: 5px solid #cdab13;
+        margin: 20px;
+        padding: 20px;
+        border-radius: 10px;
+        background: linear-gradient(white, white 50%, #cdab13 50%, #cdab13);
+        background-size: 100% 200%;
+        transition: background 0.5s;
+    }
+}
+.web-link{
+    text-decoration: none;
+}
+.card-link{
+    display: contents;
+}

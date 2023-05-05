@@ -1,0 +1,376 @@
+.title {
+    color: white;
+    text-align: left;
+    color: #CDAB13;
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.digital-services {
+    display: flex;
+
+}
+
+.description-title {
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.about-digital-services {
+    width: 70%;
+    color: white;
+    text-align: justify;
+    margin: 20px;
+}
+
+.contact-form {
+    text-align: center;
+    color: white;
+    padding: 15px;
+    border-radius: 15px;
+    background: linear-gradient(#000, #CDAB13);
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+
+.form-input {
+    border-radius: 5px;
+    border: none;
+    width: 100%;
+    margin-bottom: 8px;
+    padding: 8px;
+}
+
+.sbmt-btn {
+    background-color: black !important;
+}
+
+.sbmt-btn:hover {
+    background-color: #CDAB13 !important;
+}
+
+.contact-form-title {
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.digital-services-data {
+    display: flex;
+    justify-content: space-around;
+    background-color: #CDAB13;
+    /* width: 100; */
+}
+
+.digital-data {
+    margin-top: 20px;
+    line-height: 30px;
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+    position: relative;
+    color: #000;
+}
+
+.digital-data-desc {
+    font-size: 15px;
+    line-height: 1.6;
+    letter-spacing: 0.03em;
+    margin-top: -1px;
+}
+
+.digital-middle-content {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 70px;
+
+}
+
+.digital-middle-desc {
+    text-align: justify;
+}
+
+.digital-middle {
+    width: 50%;
+    color: white;
+}
+
+.digital-middle-content img {
+    width: 40%;
+}
+
+.digital-growth {
+    background: black;
+}
+
+.digital-growth-item img {
+
+    width: 40px;
+}
+
+.ul-element {
+    padding-left: 30px;
+}
+
+.digital-growth-items {
+    padding: 20px 70px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.digital-growth-item {
+    color: white;
+    width: 45%;
+    margin: 20px;
+}
+
+.digital-growth-title {
+    margin-bottom: 0px !important;
+    font-weight: 500;
+    font-size: 1.5rem;
+}
+
+.digital-growth-desc {
+    margin-left: 55px;
+}
+
+.growth-title {
+    text-align: center;
+}
+
+.agency {
+    display: flex;
+    margin: 20px 80px;
+    color: white;
+}
+
+.agency img {
+    width: 50%;
+}
+
+.agency-title {
+    color: #CDAB13;
+    text-align: justify;
+    margin-top: 100px;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    font-size: 1.5rem;
+}
+
+.agency-desc {
+    font-size: 15px;
+    line-height: 1.6;
+    letter-spacing: 0.03em;
+}
+
+.bottom {
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding: 10px 80px;
+}
+
+.bottom-right {
+    width: 60%;
+    text-align: justify;
+    font-size: 15px;
+    line-height: 1.6;
+    letter-spacing: 0.03em;
+
+}
+
+.bottom-left {
+    font-size: 20px;
+    line-height: 1.6;
+    letter-spacing: 0.03em;
+    padding-top: 10px;
+}
+
+.bottom-middle {
+    font-size: 35px;
+}
+
+.bottom-title {
+    margin: 50px !important;
+    background-color: black;
+}
+
+.choosing-project {
+    padding: 0px 80px;
+    color: white;
+}
+
+.choose-project-heading {
+    text-align: left;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+    line-height: 1.2;
+    font-size: 20px;
+    color: #CDAB13 ;
+}
+.choose-new-title{
+    text-align: left;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 30px;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+    line-height: 1.2;
+    font-size: 20px;
+    color: #CDAB13 ;
+}
+.signs-container{
+    margin-right: 15px;
+}
+.digitalCarousel{
+    border-radius: 50px 0;
+    color: black;
+    width: 50%;
+    text-align: center;
+    border: 1px solid #CDAB13;
+    /* margin-left: 10px; */
+    background: whitesmoke;
+}
+
+.choose-project-des{
+    margin: 30px;
+    margin-top: 10px;
+    margin-bottom: 0;
+    text-align: justify;
+}
+
+.signs {
+    display: flex;
+    margin: 30px 80px;
+    color: white;
+}
+
+.signs-container {
+    margin-top: 100px;
+    width: 60%;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    /* font-weight: 500; */
+    line-height: 1.2;
+    text-align: justify;
+}
+
+.signs img {
+    width: 40%;
+}
+
+.signs-title {
+    font-size: 25px;
+    color: #CDAB13;
+    font-weight: 500;
+}
+
+.signs-desc {
+    font-size: 15px;
+    line-height: 1.6;
+    letter-spacing: 0.03em;
+}
+
+@media screen and (max-width: 768px) {
+    .digital-services {
+        flex-direction: column;
+        padding: 0px 10px;
+
+    }
+    .digitalCarousel{
+        width: 100%;
+        border-radius: 20px 0;
+    }
+    .description-title {
+        font-size: 20px;
+        line-height: 23px;
+    }
+
+    .about-digital-services {
+        width: 100%;
+        margin: 20px;
+    }
+
+    .choosing-project {
+        padding: 20px 10px;
+        color: white;
+    }
+
+    .about-digital-services {
+        width: 100%;
+        margin: 20px 0px;
+    }
+
+    .contact-form {
+        margin: auto;
+        width: 100%;
+        padding-left: -1px;
+    }
+
+    .digital-services-data {
+        flex-direction: column;
+    }
+
+    .digital-middle-content {
+        padding: 50px 10px;
+        flex-direction: column;
+    }
+
+    .digital-middle {
+        width: 100%;
+    }
+
+    .digital-middle-content img {
+        width: 100%;
+    }
+
+    .digital-growth-items {
+        margin: 20px 10px;
+    }
+
+    .digital-growth-item {
+        margin: 3px;
+        width: 100%;
+        text-align: justify;
+    }
+
+    .agency {
+        flex-direction: column;
+        margin: 0px 10px;
+    }
+
+    .agency img {
+        width: 100%;
+    }
+
+    .bottom-title {
+        margin: 10px !important;
+    }
+
+    .bottom {
+        margin: 10px;
+    }
+
+    .signs {
+        flex-direction: column;
+        margin: 30px 10px;
+    }
+
+    .signs-container {
+        width: 100%;
+    }
+
+    .signs img {
+        width: 100%;
+    }
+    .digital-growth-items {
+        padding: 19px 20px;
+    }
+    .bottom {
+        padding: 10px 5px;
+    }
+}

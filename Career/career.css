@@ -1,0 +1,36 @@
+.desc-none{
+    display: none;
+}
+.career-card{
+    height: fit-content;
+}
+.career-toggle{
+    font-size:15px;
+    font-weight: 700;
+    cursor: pointer;
+    padding: 12px;
+    border-radius:20px;
+    background-color:#CDAB13 ;
+    width: fit-content;
+    margin: auto;
+    margin-top: 15px;
+
+}
+.price-btn{
+    cursor:pointer;
+}
+.apply-now:hover{
+    color: rgb(3, 3, 193);
+    text-decoration: none;
+}
+.apply-now{
+    color: black;
+    padding: 12px;
+    border-radius:20px;
+    background-color:#CDAB13 ;
+    
+}
+.career-apply{
+    display: flex;
+    justify-content: space-around;
+}
